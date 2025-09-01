@@ -29,12 +29,12 @@ The aim is to explore factors influencing gold prices and build models that can 
 ## 📂 Repository Structure  
 ```
 gold-price-prediction-ml/
-│── data/                  # Dataset 
-│── notebooks/             # Jupyter notebooks
+│── data/                  
+│── notebooks/             
 │   └── ML_Project_Gold_Price.ipynb
-│── requirements.txt       # Python dependencies
-│── README.md              # Project documentation
-│── .gitignore             # Ignore unnecessary files
+│── requirements.txt       
+│── README.md              
+│── .gitignore             
 ```
 
 ---
