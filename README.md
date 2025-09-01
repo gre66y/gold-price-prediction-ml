@@ -40,9 +40,8 @@ gold-price-prediction-ml/
 ---
 
 ## 📊 Dataset  
-- **Source**: (Specify dataset source, e.g., Kaggle or Yahoo Finance)  
-- **Description**: Contains historical gold prices and related financial indicators.  
-- **Target Variable**: Gold Price  
+- **Source**: Kaggle (https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data)
+- **Description**: This data file is a Comma separated value file format with 2290 rows and 7 columns. It contains 5 columns which are numerical in datatype and one column in Date format. Clearly the data shows value of the variables SPX,GLD,USO,SLV,EUR/USD against the dates in the date column.
 
 ---
 
